@@ -1,3 +1,73 @@
 body{
-    background-color: grey;
+    background-image: url("https://i.pinimg.com/originals/79/ea/e6/79eae60f1e4b247c88219f8caae89a42.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
 }
+
+.mainDiv{
+    background-color: rgba(194, 77, 77, 0.671);
+    position: relative;
+    border-radius: 15px;
+    margin:0 auto;
+    width:80%;
+    top:100px;
+    border: 5px,rgb(255, 217, 0);
+    height: 50rem;
+}
+
+.innerDiv{
+    background-color: white;
+    width: 45%;
+    margin:0 auto;
+    position: relative;
+    top:5em;
+}
+
+#js-questions{
+    position: relative;
+    top:50px;
+    width:80%;
+    
+}
+.quiz{
+    margin:0 auto;
+}
+.mainTitle{
+    margin:0 auto;
+    text-align: center;
+}
+
+.main{
+    font-size: 9vw;
+}
+
+
+.TITLE{
+    margin:0 auto;
+    text-align: center;
+}
+.buttonDiv{
+width: 100%;
+position: relative;
+top:40px;
+margin:0 auto;
+width:220px;
+border-radius: 25px;
+
+
+ 
+
+}
+
+#start{
+    
+    font-size: 3rem;
+    border-radius: 15px;
+
+}
+
+.indQuestions{
+    font-size: 15ems;
+}
+
